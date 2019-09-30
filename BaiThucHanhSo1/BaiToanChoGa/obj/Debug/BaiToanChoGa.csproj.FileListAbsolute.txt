@@ -1,0 +1,6 @@
+D:\GIT\bai-tap-thuc-hanh-dotnet-ictu\BaiThucHanhSo1\BaiToanChoGa\bin\Debug\BaiToanChoGa.exe.config
+D:\GIT\bai-tap-thuc-hanh-dotnet-ictu\BaiThucHanhSo1\BaiToanChoGa\bin\Debug\BaiToanChoGa.exe
+D:\GIT\bai-tap-thuc-hanh-dotnet-ictu\BaiThucHanhSo1\BaiToanChoGa\bin\Debug\BaiToanChoGa.pdb
+D:\GIT\bai-tap-thuc-hanh-dotnet-ictu\BaiThucHanhSo1\BaiToanChoGa\obj\Debug\BaiToanChoGa.exe
+D:\GIT\bai-tap-thuc-hanh-dotnet-ictu\BaiThucHanhSo1\BaiToanChoGa\obj\Debug\BaiToanChoGa.pdb
+D:\GIT\bai-tap-thuc-hanh-dotnet-ictu\BaiThucHanhSo1\BaiToanChoGa\obj\Debug\BaiToanChoGa.csprojAssemblyReference.cache

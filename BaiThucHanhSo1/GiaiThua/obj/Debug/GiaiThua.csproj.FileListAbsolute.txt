@@ -1,0 +1,6 @@
+D:\GIT\bai-tap-thuc-hanh-dotnet-ictu\BaiThucHanhSo1\GiaiThua\bin\Debug\GiaiThua.exe.config
+D:\GIT\bai-tap-thuc-hanh-dotnet-ictu\BaiThucHanhSo1\GiaiThua\bin\Debug\GiaiThua.exe
+D:\GIT\bai-tap-thuc-hanh-dotnet-ictu\BaiThucHanhSo1\GiaiThua\bin\Debug\GiaiThua.pdb
+D:\GIT\bai-tap-thuc-hanh-dotnet-ictu\BaiThucHanhSo1\GiaiThua\obj\Debug\GiaiThua.csprojAssemblyReference.cache
+D:\GIT\bai-tap-thuc-hanh-dotnet-ictu\BaiThucHanhSo1\GiaiThua\obj\Debug\GiaiThua.exe
+D:\GIT\bai-tap-thuc-hanh-dotnet-ictu\BaiThucHanhSo1\GiaiThua\obj\Debug\GiaiThua.pdb

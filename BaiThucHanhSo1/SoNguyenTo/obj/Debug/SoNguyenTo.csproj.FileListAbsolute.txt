@@ -1,0 +1,6 @@
+D:\GIT\bai-tap-thuc-hanh-dotnet-ictu\BaiThucHanhSo1\SoNguyenTo\bin\Debug\SoNguyenTo.exe.config
+D:\GIT\bai-tap-thuc-hanh-dotnet-ictu\BaiThucHanhSo1\SoNguyenTo\bin\Debug\SoNguyenTo.exe
+D:\GIT\bai-tap-thuc-hanh-dotnet-ictu\BaiThucHanhSo1\SoNguyenTo\bin\Debug\SoNguyenTo.pdb
+D:\GIT\bai-tap-thuc-hanh-dotnet-ictu\BaiThucHanhSo1\SoNguyenTo\obj\Debug\SoNguyenTo.csprojAssemblyReference.cache
+D:\GIT\bai-tap-thuc-hanh-dotnet-ictu\BaiThucHanhSo1\SoNguyenTo\obj\Debug\SoNguyenTo.exe
+D:\GIT\bai-tap-thuc-hanh-dotnet-ictu\BaiThucHanhSo1\SoNguyenTo\obj\Debug\SoNguyenTo.pdb

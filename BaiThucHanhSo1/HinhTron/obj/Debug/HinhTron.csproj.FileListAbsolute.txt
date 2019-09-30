@@ -1,0 +1,6 @@
+D:\GIT\bai-tap-thuc-hanh-dotnet-ictu\BaiThucHanhSo1\HinhTron\bin\Debug\HinhTron.exe.config
+D:\GIT\bai-tap-thuc-hanh-dotnet-ictu\BaiThucHanhSo1\HinhTron\bin\Debug\HinhTron.exe
+D:\GIT\bai-tap-thuc-hanh-dotnet-ictu\BaiThucHanhSo1\HinhTron\bin\Debug\HinhTron.pdb
+D:\GIT\bai-tap-thuc-hanh-dotnet-ictu\BaiThucHanhSo1\HinhTron\obj\Debug\HinhTron.csprojAssemblyReference.cache
+D:\GIT\bai-tap-thuc-hanh-dotnet-ictu\BaiThucHanhSo1\HinhTron\obj\Debug\HinhTron.exe
+D:\GIT\bai-tap-thuc-hanh-dotnet-ictu\BaiThucHanhSo1\HinhTron\obj\Debug\HinhTron.pdb
