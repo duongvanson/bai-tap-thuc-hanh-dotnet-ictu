@@ -1,0 +1,10 @@
+D:\GIT\ICTUniversityTNU\Dot NET\QLThongTinSinhVien\QLThongTinSinhVien\bin\Debug\QLThongTinSinhVien.exe.config
+D:\GIT\ICTUniversityTNU\Dot NET\QLThongTinSinhVien\QLThongTinSinhVien\bin\Debug\QLThongTinSinhVien.exe
+D:\GIT\ICTUniversityTNU\Dot NET\QLThongTinSinhVien\QLThongTinSinhVien\bin\Debug\QLThongTinSinhVien.pdb
+D:\GIT\ICTUniversityTNU\Dot NET\QLThongTinSinhVien\QLThongTinSinhVien\obj\Debug\QLThongTinSinhVien.csprojAssemblyReference.cache
+D:\GIT\ICTUniversityTNU\Dot NET\QLThongTinSinhVien\QLThongTinSinhVien\obj\Debug\QLThongTinSinhVien.frmMain.resources
+D:\GIT\ICTUniversityTNU\Dot NET\QLThongTinSinhVien\QLThongTinSinhVien\obj\Debug\QLThongTinSinhVien.Properties.Resources.resources
+D:\GIT\ICTUniversityTNU\Dot NET\QLThongTinSinhVien\QLThongTinSinhVien\obj\Debug\QLThongTinSinhVien.csproj.GenerateResource.cache
+D:\GIT\ICTUniversityTNU\Dot NET\QLThongTinSinhVien\QLThongTinSinhVien\obj\Debug\QLThongTinSinhVien.exe
+D:\GIT\ICTUniversityTNU\Dot NET\QLThongTinSinhVien\QLThongTinSinhVien\obj\Debug\QLThongTinSinhVien.pdb
+D:\GIT\ICTUniversityTNU\Dot NET\QLThongTinSinhVien\QLThongTinSinhVien\obj\Debug\QLThongTinSinhVien.frmMoi.resources

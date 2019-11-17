@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="ManagerPhone">
+  <DataContextMoniker Name="/ManagerPhoneDataContext" />
+  <nestedChildShapes>
+    <classShape Id="5d9c423c-fb8e-4504-9308-036d08c16946" absoluteBounds="0.75, 1, 2, 1.9631982421875">
+      <DataClassMoniker Name="/ManagerPhoneDataContext/product" />
+      <nestedChildShapes>
+        <elementListCompartment Id="44b1d8eb-8537-4e37-bbe4-f3e98ec41bbc" absoluteBounds="0.765, 1.46, 1.9700000000000002, 1.4031982421875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="6e58fcd5-81e0-4fd1-ada7-eb89fa73bfdd" absoluteBounds="4.5, 2, 2, 1.3862939453125">
+      <DataClassMoniker Name="/ManagerPhoneDataContext/trademark" />
+      <nestedChildShapes>
+        <elementListCompartment Id="52dbe866-7f07-4084-8e7c-210bdb4a2d9b" absoluteBounds="4.515, 2.46, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(4.5 : 2.48159912109375); (2.75 : 2.48159912109375)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/ManagerPhoneDataContext/trademark/trademark_product" />
+      <nodes>
+        <classShapeMoniker Id="6e58fcd5-81e0-4fd1-ada7-eb89fa73bfdd" />
+        <classShapeMoniker Id="5d9c423c-fb8e-4504-9308-036d08c16946" />
+      </nodes>
+    </associationConnector>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

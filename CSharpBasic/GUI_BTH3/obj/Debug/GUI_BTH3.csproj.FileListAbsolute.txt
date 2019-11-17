@@ -1,0 +1,10 @@
+D:\GIT\ICTUniversityTNU\Dot NET\CSharpBasic\GUI_BTH3\bin\Debug\GUI_BTH3.exe.config
+D:\GIT\ICTUniversityTNU\Dot NET\CSharpBasic\GUI_BTH3\bin\Debug\GUI_BTH3.exe
+D:\GIT\ICTUniversityTNU\Dot NET\CSharpBasic\GUI_BTH3\bin\Debug\GUI_BTH3.pdb
+D:\GIT\ICTUniversityTNU\Dot NET\CSharpBasic\GUI_BTH3\obj\Debug\GUI_BTH3.csprojAssemblyReference.cache
+D:\GIT\ICTUniversityTNU\Dot NET\CSharpBasic\GUI_BTH3\obj\Debug\GUI_BTH3.Form1.resources
+D:\GIT\ICTUniversityTNU\Dot NET\CSharpBasic\GUI_BTH3\obj\Debug\GUI_BTH3.Properties.Resources.resources
+D:\GIT\ICTUniversityTNU\Dot NET\CSharpBasic\GUI_BTH3\obj\Debug\GUI_BTH3.csproj.GenerateResource.cache
+D:\GIT\ICTUniversityTNU\Dot NET\CSharpBasic\GUI_BTH3\obj\Debug\GUI_BTH3.csproj.CoreCompileInputs.cache
+D:\GIT\ICTUniversityTNU\Dot NET\CSharpBasic\GUI_BTH3\obj\Debug\GUI_BTH3.exe
+D:\GIT\ICTUniversityTNU\Dot NET\CSharpBasic\GUI_BTH3\obj\Debug\GUI_BTH3.pdb

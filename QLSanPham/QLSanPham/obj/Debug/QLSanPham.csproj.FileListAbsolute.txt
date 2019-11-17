@@ -1,0 +1,9 @@
+D:\GIT\ICTUniversityTNU\Dot NET\QLSanPham\QLSanPham\bin\Debug\QLSanPham.exe.config
+D:\GIT\ICTUniversityTNU\Dot NET\QLSanPham\QLSanPham\bin\Debug\QLSanPham.exe
+D:\GIT\ICTUniversityTNU\Dot NET\QLSanPham\QLSanPham\bin\Debug\QLSanPham.pdb
+D:\GIT\ICTUniversityTNU\Dot NET\QLSanPham\QLSanPham\obj\Debug\QLSanPham.csprojAssemblyReference.cache
+D:\GIT\ICTUniversityTNU\Dot NET\QLSanPham\QLSanPham\obj\Debug\QLSanPham.frmMain.resources
+D:\GIT\ICTUniversityTNU\Dot NET\QLSanPham\QLSanPham\obj\Debug\QLSanPham.Properties.Resources.resources
+D:\GIT\ICTUniversityTNU\Dot NET\QLSanPham\QLSanPham\obj\Debug\QLSanPham.csproj.GenerateResource.cache
+D:\GIT\ICTUniversityTNU\Dot NET\QLSanPham\QLSanPham\obj\Debug\QLSanPham.exe
+D:\GIT\ICTUniversityTNU\Dot NET\QLSanPham\QLSanPham\obj\Debug\QLSanPham.pdb

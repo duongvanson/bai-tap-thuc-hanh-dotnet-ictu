@@ -1,0 +1,7 @@
+D:\GIT\ICTUniversityTNU\Dot NET\CSharpBasic\BTH3\bin\Debug\BTH3.exe.config
+D:\GIT\ICTUniversityTNU\Dot NET\CSharpBasic\BTH3\bin\Debug\BTH3.exe
+D:\GIT\ICTUniversityTNU\Dot NET\CSharpBasic\BTH3\bin\Debug\BTH3.pdb
+D:\GIT\ICTUniversityTNU\Dot NET\CSharpBasic\BTH3\obj\Debug\BTH3.csprojAssemblyReference.cache
+D:\GIT\ICTUniversityTNU\Dot NET\CSharpBasic\BTH3\obj\Debug\BTH3.csproj.CoreCompileInputs.cache
+D:\GIT\ICTUniversityTNU\Dot NET\CSharpBasic\BTH3\obj\Debug\BTH3.exe
+D:\GIT\ICTUniversityTNU\Dot NET\CSharpBasic\BTH3\obj\Debug\BTH3.pdb
